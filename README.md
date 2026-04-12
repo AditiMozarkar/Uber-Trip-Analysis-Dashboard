@@ -102,9 +102,25 @@ Key SQL queries include:
 
 ---
 
+## 🚀 How to Use
+
+1. Download the Uber_Dashboard.pbix file.
+2. Open it in Power BI Desktop.
+3. Load the dataset file: uber_trip_data_2024.csv if required.
+4. Run SQL queries from uber_analysis_queries.sql for database analysis.
+5. Explore dashboard pages:
+   - Overview
+   - Vehicle Type
+   - Revenue
+   - Cancellation
+   - Ratings
+     
+---
+
 ## 👩‍💻 Author
 
 **Aditi Mozarkar**  
-Aspiring Data Analyst | SQL | Power BI | Data Visualization
-GitHub: https://github.com/AditiMozarkar 
-LinkedIn: https://www.linkedin.com/in/aditi-mozarkar
+Aspiring Data Analyst | SQL | Power BI | Data Visualization  
+
+GitHub: [AditiMozarkar](https://github.com/AditiMozarkar)  
+LinkedIn: [Aditi Mozarkar](https://www.linkedin.com/in/aditi-mozarkar)
