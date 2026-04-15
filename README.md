@@ -120,7 +120,7 @@ Key SQL queries include:
 ## 👩‍💻 Author
 
 **Aditi Mozarkar**  
-Aspiring Data Analyst | SQL | Power BI | Data Visualization  
+Aspiring Data Analyst | SQL | Power BI | Excel | Data Visualization  
 
 GitHub: [AditiMozarkar](https://github.com/AditiMozarkar)  
 LinkedIn: [Aditi Mozarkar](https://www.linkedin.com/in/aditi-mozarkar)
